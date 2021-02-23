@@ -40,3 +40,5 @@
 
 
 Также если интересно посмотреть на код, вы можете просто перейти на <a href='https://github.com/Pengu1nik' target='_blank'>мой профиль</a> и посмотреть мои репозитории.
+
+Если вам нужен сайт, то можете написать мне в <a href='https://vk.com/nikolay.medvedev99' target='_blank'>вк </a>

@@ -47,6 +47,7 @@
 Данный сайт был сделан за 4 дня. Но только JS!
 Верста немного была поправлена. Это дипломный проект, который был сдан без ошибок. Для сборки проекта использовался webpack. JS написан с использованием модулей. (разделение функций).<br/>
 
+
 <a href='https://pengu1nik.github.io/DSP-Logistic/' target='_blank'>
 Сайт грузоперевозок</a> ||
 <a href='https://github.com/Pengu1nik/DSP-Logistic/tree/prelastDay' target='_blank'>Код сайта</a>

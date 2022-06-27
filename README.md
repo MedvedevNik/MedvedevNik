@@ -1,13 +1,12 @@
 ![alt README header](https://raw.githubusercontent.com/medvedevnik/medvedevnik/main/header.png)
 ## 😄 About me 
-
  🤘🏽 I am 21 years old. I've been in development for 4 years, 1.5 of which in web development. I strive to make accessible and responsive websites and web applications. At the moment I'm delving into the study of React, TypeScript and GraphQL. In the future, I see myself as a developer of web and mobile applications.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedvedevNik&layout=compact)](https://github.com/MedvedevNik/github-readme-stats)
 <!-- <p> -->
   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=MedvedevNik&hide=contribs" /> -->
 
- ## Стек
+ ## stack
   <p>
     <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white"/>
     <img alt="Codium" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
@@ -29,7 +28,7 @@
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
   </p>
 
-##  Изучаю следующие технологии
+##  I'm learning
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=TypeScript&logoColor=white">
     <img alt="Graphql" src="https://img.shields.io/badge/-Graphql-E10098?logo=Graphql&logoColor=white">

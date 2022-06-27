@@ -6,7 +6,7 @@
 <!-- <p> -->
   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=MedvedevNik&hide=contribs" /> -->
 
- ## stack
+ ## 😎 Stack
   <p>
     <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white"/>
     <img alt="Codium" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
@@ -28,7 +28,7 @@
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
   </p>
 
-##  I'm learning
+## 📚 I'm learning
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=TypeScript&logoColor=white">
     <img alt="Graphql" src="https://img.shields.io/badge/-Graphql-E10098?logo=Graphql&logoColor=white">

@@ -1,6 +1,18 @@
 ![alt README header](https://raw.githubusercontent.com/medvedevnik/medvedevnik/main/header.png)
 ## 😄 About me 
- 🤘🏽 I am 21 years old. I've been in development for 4 years, 1.5 of which in web development. I strive to make accessible and responsive websites and web applications. At the moment I'm delving into the study of React, TypeScript and GraphQL. In the future, I see myself as a developer of web and mobile applications.
+ 🤘🏽 I am a 23-year-old, young and ambitious frontend developer, ready to embrace challenges and continuous growth. My journey in IT started with web page layout, and in a short time, I advanced to a full-fledged frontend developer through dedication to self-improvement and learning new technologies. My goal is to become a leading specialist and mentor in the frontend field.
+
+I am inspired by complex projects that require not only technical skills but also the ability to solve problems and achieve results. I strive for excellence in my tech stack and am eager to learn new languages and frameworks, such as TypeScript and React, to create products that inspire and amaze.
+
+In the past, I actively participated in company life by organizing various events for employees. I organized corporate activities, including bowling, climbing, table tennis, and board games, to foster team spirit and create a friendly atmosphere. My organizational and leadership skills shine not only in work but also in external initiatives where I aim to contribute to team spirit and corporate culture.
+
+____
+
+🤘🏽 Я - 23-летний, молодой и амбициозный фронтенд-разработчик, готовый к вызовам и постоянному развитию. Мой путь в IT начался с верстки, и за короткое время я смог стать полноценным фронтенд-разработчиком благодаря стремлению к самосовершенствованию и изучению новых технологий. Моя цель - стать ведущим специалистом и наставником в области фронтенда.
+
+Меня вдохновляют сложные проекты, которые требуют не только технических навыков, но и умения решать проблемы и достигать результатов. Я стремлюсь к совершенству в своем стеке технологий, готов изучать новые языки и фреймворки, такие как TypeScript и React, чтобы создавать продукты, которые вдохновляют и удивляют.
+
+В прошлом я активно участвовал в жизни компании, организуя различные мероприятия для сотрудников. Я организовывал корпоративные мероприятия, включая боулинг, скалодром, игры настольного тенниса и настольные игры, чтобы сплачивать коллектив и создавать дружественную атмосферу. Мои способности организатора и лидера проявляются не только в работе, но и во внешних инициативах, где я стараюсь внести вклад в командный дух и корпоративную культуру.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedvedevNik&layout=compact)](https://github.com/MedvedevNik/github-readme-stats)
 <!-- <p> -->
@@ -20,12 +32,13 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
     <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-    <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
-    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
+    <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-1d78c1?logo=nextjs&logoColor=white">
+    <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-1d78c1?logo=nodejs&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/-Express-1d78c1?logo=express&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1d78c1?logo=mongodb&logoColor=white">
   </p>
 
 ## 📚 I'm learning
